@@ -104,7 +104,7 @@ header p {
 }
 
 a {
-  background: #3F51B5;
+ 
   color: #FFFFFF;
   padding: 8px 20px;
   text-transform: uppercase;
@@ -112,8 +112,7 @@ a {
   margin-bottom: 20px;
   margin-top: 10px;
   display: inline-block;
-  border-radius: 2px;
-  box-shadow: 0 1px 3px -1px rgba(0, 0, 0, 0.6);
+  
 }
 a:hover, a:active, a:focus {
   background: #32408f;
