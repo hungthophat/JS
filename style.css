@@ -21,10 +21,9 @@ h1 {
 }
 
 header {
-  background: #3F51B5;
-  color: #FFFFFF;
-  
+  color: #FFFFFF; 
 }
+
 header p {
   font-family: 'Allura';
   color: rgba(255, 255, 255, 0.2);
