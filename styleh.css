@@ -4,7 +4,7 @@
   margin: 0 auto;
   flex-wrap: wrap;
   flex-direction: column;
-  max-width: 700px;
+  max-width: 1440px;
   position: relative;
 }
 .timeline__content-title {
@@ -91,7 +91,7 @@
 .timeline-item--active .timeline__content-title {
   margin: -50px 0 20px 0;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 1440px) {
   .timeline-item {
     align-self: baseline !important;
     width: 100%;
